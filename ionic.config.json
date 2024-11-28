@@ -1,0 +1,7 @@
+{
+  "name": "EduLang",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
